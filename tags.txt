@@ -1,0 +1,20 @@
+<h1> </h1> -> heading
+<br> -> next line
+<hr  size="3" noshade> ___________
+<meta> this gives all the info about our website to search engine </meta>
+	attributes
+	* charset ="utf-8"
+	* description="this website is about ishu deep"
+<i> = <em>==emphesyse -> italic
+<b> = <strong> -> bold
+
+<ul type="circle, square">
+	<li>  </li>
+</ul>
+
+<ol statrt="5" or type="i">
+	<li>  </li> 
+</ol>
+
+<img src="path_of_image">
+<a href="www.google.com" target="new"> GOOGLE </a>
